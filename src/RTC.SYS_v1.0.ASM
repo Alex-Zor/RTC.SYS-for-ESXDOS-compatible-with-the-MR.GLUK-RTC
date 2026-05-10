@@ -33,7 +33,7 @@ rtc_detect:             ld b, $EF                       ; RTC on
                         ld a, $00                       ;
                         out (c), a                      ;
                         ld de, $0000                    ;
-                        ld bc, $0499                    ; ZX Spectrum birthday
+                        ld bc, $0497                    ; ZX Spectrum birthday
                         pop af                          ;
                         ret                             ;
 
