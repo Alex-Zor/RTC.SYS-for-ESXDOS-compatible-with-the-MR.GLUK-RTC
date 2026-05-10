@@ -12,6 +12,6 @@ Installation:
   Copy or replace the RTC.SYS file in the following directory
   on the SD card:
 
-    /SYS/
+#    /SYS/
 
 ![Top](img/RTC.SYS_1.png)
